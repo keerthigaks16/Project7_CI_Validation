@@ -1,0 +1,1 @@
+[![Terraform CI](https://github.com/keerthigaks16/Project7_CI_Validation/actions/workflows/terraform.yml/badge.svg)](https://github.com/keerthigaks16/Project7_CI_Validation/actions/workflows/terraform.yml)
